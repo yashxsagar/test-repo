@@ -1,0 +1,189 @@
+ 3400  node cityAqi.js
+ 3401  vi cityAqi.js
+ 3402  cat cityAqi.js|pbcopy
+ 3403  vi cityAqi.js
+ 3404  node cityAqi.js
+ 3405  vi cityAqi.js
+ 3406  npm init
+ 3407  ls
+ 3408  touch index.js
+ 3409  vi package.json
+ 3410  npm i express
+ 3411  ls
+ 3412  vi index.js
+ 3413  vi cityAqi.js
+ 3414  vi index.js
+ 3415  cat package.json
+ 3416  vi package.json
+ 3417  ls
+ 3418  npm run dev
+ 3419  vi index.js
+ 3420  npm run dev
+ 3421  vi index.js
+ 3422  npm run dev
+ 3423  vi index.js
+ 3424  npm run dev
+ 3425  vi cityAqi.js
+ 3426  npm run dev
+ 3427  vi cityAqi.js
+ 3428  npm run dev
+ 3429  vi cityAqi.js
+ 3430  npm run dev
+ 3431  vi cityAqi.js
+ 3432  npm run dev
+ 3433  vi index.js
+ 3434  npm run dev
+ 3435  vi index.js
+ 3436  vi cityAqi.js
+ 3437  npm run dev
+ 3438  vi index.js
+ 3439  npm run dev
+ 3440  vi index.js
+ 3441  cat index.js|pbcopy
+ 3442  vi index.js
+ 3443  npm run dev
+ 3444  vi cityAqi.js
+ 3445  npm run dev
+ 3446  vi cityAqi.js
+ 3447  vi index.js
+ 3448  npm run dev
+ 3449  vi index.js
+ 3450  npm run dev
+ 3451  vi index.js
+ 3452  npm run dev
+ 3453  vi cityAqi.js
+ 3454  npm run dev
+ 3455  vi cityAqi.js
+ 3456  npm run dev
+ 3457  cat cityAqi.js|pbcopy
+ 3458  ls
+ 3459  npm i node-fetch
+ 3460  npm run dev
+ 3461  vi cityAqi.js
+ 3462  vi index.js
+ 3463  npm run dev
+ 3464  ls
+ 3465  npm run dev
+ 3466* ping http://localhost:5050/aqi
+ 3467* ping http://localhost:5050/aqi?city\=Mumbai
+ 3468* ping http://localhost:5050/aqi\?city\=Mumbai
+ 3469* ifconfig|fzf
+ 3470* ifconfig|grep 192.168
+ 3471* ping http://192.168.29.232:5050
+ 3472* ping http://192.168.29.232:5050/
+ 3473* ping http://localhost:5050/aqi\?city\=London
+ 3474* curl -GET http://localhost:5050/aqi\?city\=London
+ 3475  history
+ 3476  ls
+ 3477  git init
+ 3478  ls -al
+ 3479  git status
+ 3480  echo "A simple express server with a GET endpoint to fetch the AQI of any city in the world"|pbcopy|cat && touch readme.md
+ 3481  git status
+ 3482  cat readme.md
+ 3483  echo "A simple express server with a GET endpoint to fetch the AQI of any city in the world">>readme.md\n
+ 3484  cat readme.md
+ 3485  git status
+ 3486  touch .gitignore .env
+ 3487  git status
+ 3488  vi .env
+ 3489* git status
+ 3490  cat .git
+ 3491  cat .gitignore
+ 3492  cat .env
+ 3493  vi .env
+ 3494  vi .gitignore
+ 3495  cat .gitignore
+ 3496  git status
+ 3497  git add .
+ 3498  git status
+ 3499  echo 'node_modules'>>.gitignore
+ 3500  git status
+ 3501  cat .gitignore
+ 3502  git status
+ 3503  git rm --cached node_modules/
+ 3504  git status
+ 3505  ls
+ 3506  git rm -r --cached node_modules/
+ 3507  git status
+ 3508  ls
+ 3509  ls -a
+ 3510  git status
+ 3511  git add .
+ 3512  git status
+ 3513  git commit -m 'Initial Commit' -m 'excluding .env and node_modules'
+ 3514  git remote -v
+ 3515  git remote add origin https://github.com/yashxsagar/demo-repo.git
+ 3516  git remote -v
+ 3517  git status
+ 3518  git push origin main
+ 3519  git pull origin main
+ 3520  git status
+ 3521  git push origin main
+ 3522  ls
+ 3523  vi .gitignore
+ 3524  git push origin main
+ 3525  git pull --help
+ 3526  git status
+ 3527  vi .gitignore
+ 3528  git status
+ 3529  vi .gitignore
+ 3530  git commit -m 'add /node_modules to readme.md'
+ 3531  git commit -a 'add /node_modules to readme.md'
+ 3532  git commit -m 'add /node_modules to readme.md'
+ 3533  git add readme.md
+ 3534  git commmit -a
+ 3535  git commit -a
+ 3536  git status
+ 3537  git pull rebase
+ 3538  git pull -rebase origin main
+ 3539  git pull --rebase origin main
+ 3540  git rebase --skip
+ 3541  git rebase
+ 3542  git rm -fr ".git/rebase-merge"
+ 3543  rm -fr ".git/rebase-merge"
+ 3544  git head main
+ 3545  git main
+ 3546  git status
+ 3547  git add .gitignore
+ 3548  git branch
+ 3549  git checkout main
+ 3550  git status
+ 3551  git push
+ 3552  git remote -v
+ 3553  git remote add origin https://github.com/yashxsagar/demo-repo.git
+ 3554  git push
+ 3555  git push -u origin main
+ 3556  git pull origin main
+ 3557  git config pull.ff only
+ 3558  git pull origin main
+ 3559  git push -u origin main
+ 3560  git config pull.rebase true
+ 3561  git pull origin main
+ 3562  git config pull.rebase false
+ 3563  git pull origin main
+ 3564  git push -u origin main
+ 3565  git fetch origin
+ 3566  git merge origin/main
+ 3567  git merge origin/main --allow-unrelated-histories\n
+ 3568  git add readme.md
+ 3569  git commit\n
+ 3570  git push origin main
+ 3571  cat .gitignore
+ 3572  ls
+ 3573  pwd
+ 3574  cd ..
+ 3575  mkdir git100xDevs
+ 3576  mkdir GitPractice
+ 3577  pwd
+ 3578  ls git100xDevs
+ 3579  cd git100xDevs
+ 3580  mkdir GitPractice
+ 3581  pwf
+ 3582  pwd
+ 3583  mkdir GitPractice
+ 3584  ls GitPractice
+ 3585  pwd
+ 3586  cd GitPractice
+ 3587  pwd
+ 3588  git clone https://github.com/yashxsagar/test-repo.git
